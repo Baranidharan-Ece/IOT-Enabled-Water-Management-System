@@ -1,4 +1,3 @@
-# IoT-Based Smart Water Distribution & Quality Monitoring System
 
 ![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)
 ![ESP8266](https://img.shields.io/badge/ESP8266-NodeMCU-green)
