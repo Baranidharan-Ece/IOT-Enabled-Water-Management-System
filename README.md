@@ -143,7 +143,7 @@ Built using **Arduino Uno** and **ESP8266 NodeMCU**, the system collects real-ti
 
 - 💼 LinkedIn: https://www.linkedin.com/in/baranidharan-sanmugam-b6a3532a5/
 - 💻 GitHub: https://github.com/Baranidharan-Ece
-- 📧 Email: baranidharansnkdr2gmail.com
+- 📧 Email: baranidharansnkdr@gmail.com
 
 ---
 
